@@ -2,6 +2,7 @@
 [project]
 name = "zasm"
 languages = ["CXX"]
+msvc-runtime = "static"
 
 [options]
 ZASM_BUILD_TESTS = false
